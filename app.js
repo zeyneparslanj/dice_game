@@ -5,6 +5,7 @@ const secondDice = document.getElementById("second")
 const heading = document.querySelector("h1")
 const btn = document.getElementById("btn")
 
+
 // oyuncular
 
 let firstPlayerName = "Player ONE"
